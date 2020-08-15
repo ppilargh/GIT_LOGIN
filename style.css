@@ -1,0 +1,55 @@
+h1{
+    font-size: 50px;
+    color: #0080CC;
+    text-align: center; 
+}
+
+h4{
+    color: #0080CC;
+    font-size: 18px;
+    text-align: center;
+}
+
+h5{
+    color: #0080CC;
+    font-size: 14px;
+    text-align: center;
+}
+
+body{
+    background: #343d46;
+  }
+
+table{
+    width: 50%;
+    border: 2px dotted rgb(45, 27, 122);
+    margin:auto;
+    padding:15px;
+}
+
+td{
+    text-align:center;
+    padding: 5px;
+}
+
+.izq{
+    color: #0080CC;
+    font-size: 18px;
+    text-align: rigth;
+}
+
+.der{
+    color: #0080CC;
+    font-size: 18px;
+    text-align: left;
+}
+
+.btn{
+        border-radius: 5px;
+        border: 2px #0080CC;
+        color: #0080CC;
+        font-size: 18px;
+        text-align: right;  
+}  
+    
+    
