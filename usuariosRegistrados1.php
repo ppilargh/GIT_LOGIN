@@ -46,6 +46,7 @@
 <tr><td><a href="usuariosRegistrados2.php"><h5>Página 2</h5></a></td></tr>
 <tr><td><a href="usuariosRegistrados3.php"><h5>Página 3</h5></a></td></tr>
 <tr><td><a href="usuariosRegistrados4.php"><h5>Página 4</h5></a></td></tr>
+<tr><td><a href="usuariosRegistrados5.php"><h5>Página 5</h5></a></td></tr>
 </table>
 
 </body>
