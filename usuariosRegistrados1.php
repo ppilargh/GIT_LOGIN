@@ -41,7 +41,7 @@
 
 <table>
 
-<tr><td><h4>Está en la página principal 1</h4></td></tr>
+<tr><td><h4>Está en la página principal 1 (uno)</h4></td></tr>
 
 <tr><td><a href="usuariosRegistrados2.php"><h5>Página 2</h5></a></td></tr>
 <tr><td><a href="usuariosRegistrados3.php"><h5>Página 3</h5></a></td></tr>

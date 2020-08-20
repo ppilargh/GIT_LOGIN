@@ -33,7 +33,7 @@
 
 <h4> Esto es información sólo para usuarios registrados</h4>
 
-<h4>Está en la página 5</h4>
+<h4>Está en la página 5 (cinco)</h4>
 
 <p><a href="usuariosRegistrados1.php"><h5>VOLVER A PÁGINA 1</h5></a></p>
 
